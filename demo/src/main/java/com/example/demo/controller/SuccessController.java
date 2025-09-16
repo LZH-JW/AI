@@ -12,6 +12,6 @@ public class SuccessController {
      */
     @GetMapping("/success")
     public String getSuccess() {
-        return "success Ai";
+        return "success Ai Test";
     }
 }
